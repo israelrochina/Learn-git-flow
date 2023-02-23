@@ -1,3 +1,8 @@
 auto
 tractor
 trailer
+patineta
+cuadron
+bicicleta
+patineta
+aviongit add .
