@@ -2,3 +2,6 @@ Cat
 Dog
 Parrot
 sneak
+Perro
+Gatos
+Arañas
